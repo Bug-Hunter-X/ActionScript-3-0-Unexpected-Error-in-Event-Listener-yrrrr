@@ -1,0 +1,1 @@
+This repository demonstrates a bug in ActionScript 3.0 related to unexpected errors within event listeners. The application crashes without providing detailed error messages, making debugging challenging. The solution involves adding comprehensive error handling to provide more informative messages and prevent crashes.
